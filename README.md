@@ -1,2 +1,2 @@
-# my-first-repo1
-# これは練習です
+# This is my awesome repo
+## This is my first repo
